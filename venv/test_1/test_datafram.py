@@ -8,6 +8,7 @@ df = pd.DataFrame({
     '班级':'高一7班'
 },index=[0,1,2])
 
+
 print(df['语文'])
 
 pd.read_csv()

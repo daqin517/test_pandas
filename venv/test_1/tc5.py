@@ -8,5 +8,6 @@ for d in df['数学']:
         # print(d.index)
         pass
 
+
 print(df['英语']>110)
 # print(df[df['英语']>110].index)
